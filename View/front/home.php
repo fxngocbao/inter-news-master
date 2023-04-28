@@ -153,7 +153,7 @@ a.link-center2{
 </style>
 <section>
     <!-- Carousel -->
-    <div id="demo" class="carousel slide" data-bs-ride="carousel">
+    <div id="demo" class="carousel slide" data-bs-ride="carousel">g
         <!-- The slideshow/carousel -->
         <div class="carousel-inner">
             <div class="carousel-item active">
@@ -166,14 +166,14 @@ a.link-center2{
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="././Assets/front/images/So-Huu-Tri-Tue.jpg" alt="Chicago" style="width: 100%; height: 450px;">
+                <img src="./Assets/front/images/So-Huu-Tri-Tue.jpg" alt="Chicago" style="width: 100%; height: 450px;">
                 <div class="carousel-caption">
                     <h3>Chicago</h3>
                     <p>Thank you, Chicago!</p>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="././Assets/front/images/Tu-van-doanh-nghiep.jpg" alt="New York" style="width: 100%; height: 450px;">
+                <img src="./Assets/front/images/Tu-van-doanh-nghiep.jpg" alt="New York" style="width: 100%; height: 450px;">
                 <div class="carousel-caption">
                     <h3>New York</h3>
                     <p>We love the Big Apple!</p>
