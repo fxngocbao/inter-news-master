@@ -252,7 +252,6 @@ a.link-center2{
                     </blockquote>
                 </div>
             </div>
-
         </div>
     </div>
 
