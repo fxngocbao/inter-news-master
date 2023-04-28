@@ -153,7 +153,7 @@ a.link-center2{
 </style>
 <section>
     <!-- Carousel -->
-    <div id="demo" class="carousel slide" data-bs-ride="carousel">g
+    <div id="demo" class="carousel slide" data-bs-ride="carousel">
         <!-- The slideshow/carousel -->
         <div class="carousel-inner">
             <div class="carousel-item active">
@@ -323,8 +323,7 @@ a.link-center2{
             <a href="" style="color: black; text-decoration: none;"><i class="bi bi-check-lg" style="color:orange"></i>
                 Tư vấn hợp đồng</a><br>
             <a href="" style="color: black; text-decoration: none;"><i class="bi bi-check-lg" style="color:orange"></i>
-                Tư vấn giải quyết tranh chấp công ty</a><br>
-                ddd
+                Tư vấn giải quyết tranh chấp công ty</a>
         </div>
         <div class="col-sm-6 bg-light" style=" font-size: 16px;">
             <a href="" style="color: black; text-decoration: none;"><i class="bi bi-check-lg" style="color:orange"></i>
